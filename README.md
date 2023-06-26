@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonsog714&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsog714" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfonsog714" alt="alfonsog714" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfonsog714&rank=-C&row=1&margin-w=15&margin-h=15" alt="alfonsog714" /></a> </p>
 
 - 🔭 I’m currently working on **Walmart Optical Tooling**
 
