@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/xpW2Wal.gif)]()
 <h1 align="center">Fonzi's GitHub Page</h1>
-<h3 align="center">Experienced Software Engineer, especially intrigued by graphics programming</h3>
+<h3 align="center">Software Engineer @Walmart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonsog714&label=Profile%20views&color=0e75b6&style=flat" alt="alfonsog714" /> </p>
 
